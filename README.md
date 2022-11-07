@@ -19,7 +19,7 @@
 - Languages: PHP, Hack (Hacklang), JavaScript, HTML, CSS<br/>
 - Content management systems: WordPress, Meta (Facebook) CMS
 - E-commerce systems: Easy Digital Downloads, WooCommerce
-- Local Development Environments: Docker, Vagrant
+- Local development environments: Docker, Vagrant
 - Libraries/frameworks: React, jQuery
 - Tools/etc:
   - CircleCI
