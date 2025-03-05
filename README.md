@@ -13,7 +13,6 @@
 
 ### Find me on:
 - <a href="https://www.linkedin.com/in/bjornholine/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bjornholine?style=social&logo=linkedin"></a>
-- <a href="https://twitter.com/Bjorn2404"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Bjorn2404?style=social&logo=twitter"></a>
 
 ### Tech Stack 🛠
 - Languages: PHP, Hack (Hacklang), JavaScript, HTML, CSS<br/>
